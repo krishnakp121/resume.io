@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+section {
+    margin: 20px;
+}
+#profile, #experience, #education, #skills, #hobbies {
+    border-bottom: 2px solid #eaeaea;
+    padding-bottom: 20px;
+}
+h1 {
+    font-size: 24px;
+    color: #333;
+}
+h2 {
+    font-size: 20px;
+    color: #666;
+}
+.profile-section {
+    display: flex;
+    align-items: center; /* Align items vertically */
+  }
+  
+  .profile-picture img {
+    width: 150px; /* Adjust as needed */
+    height: 150px; /* Adjust as needed */
+    border-radius: 50%; /* Circular image */
+    margin-right: 10px; /* Space between image and content */
+    
+    
+    
+  }
+  
+  .profile-content {
+    /* Add styles for your profile content here */
+  }
+  
